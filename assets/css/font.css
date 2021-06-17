@@ -1,0 +1,15 @@
+@font-face {
+    font-family: sanscd;
+    src: url(../libs/fonts/a750sanscdlightregular.ttf);
+}
+@font-face {
+    font-family: avenida;
+    src: url(../libs/fonts/avenida-let-plain10.ttf);
+}
+
+.sanscd{
+    font-family: 'sanscd', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.avenida{
+    font-family: 'avenida', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
