@@ -1,14 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.row{margin: 0!important;}
 nav.navbar{
     background-color: #cfad48;
     position: fixed;
     width: 100%;
+    z-index: 10000
 }
 nav img{
     height: 60px;
 }
 body{
-    background-color: #bbbbbb;
-    
+    background-color: #eaeaea;
+    margin: 0;
+    overflow-x: hidden;
 }
 main{
     padding-top: 76px;
@@ -50,4 +56,21 @@ main .banner-home .background-filter{
     background-color: #0000006d;
     height: 100%;
     width: 100%;
+}
+
+.card {
+    background-color: #093e74;
+    color: #f1f1f3;
+}
+
+@media(max-width:600px){
+    main .banner-home h1 {
+        color: #eaeaea;
+        z-index: 1000;
+        position: absolute;
+        left: 20px;
+        top: 20vh;
+        font-size: 71px;
+        line-height: 51px;
+    }
 }
