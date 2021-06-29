@@ -27,7 +27,7 @@ main .banner-home{
 main .banner-home .banner-img{
     height: 100%;
     width: 100%;
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/uniplac.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -74,10 +74,33 @@ main .banner-home .background-filter{
     main .banner-home h1 {
         color: #eaeaea;
         z-index: 1000;
-        position: absolute;
+        position: relative;
         left: 20px;
         top: 20vh;
         font-size: 71px;
         line-height: 51px;
     }
+}
+
+.card-img-top{
+    height: 200px;
+    border-radius: 150px;
+}
+
+.card-text{
+    margin-top: 40px;
+    height: 280px;
+    font-size: 14px;
+}
+
+.foto_si{
+    width: 250px;
+    margin-top: 570px;
+    float: right;
+    margin-left: 1250px;
+    position:absolute;
+}
+
+.card-title{
+    height: 50px;
 }
