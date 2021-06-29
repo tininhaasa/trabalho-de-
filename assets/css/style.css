@@ -62,6 +62,13 @@ main .banner-home .background-filter{
     background-color: #093e74;
     color: #f1f1f3;
 }
+.question{
+    padding:15px 0;
+    text-align: center;
+}
+.question p{
+    margin-bottom: 0;
+}
 
 @media(max-width:600px){
     main .banner-home h1 {
