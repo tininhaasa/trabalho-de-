@@ -15,6 +15,7 @@ body{
     background-color: #eaeaea;
     margin: 0;
     overflow-x: hidden;
+    margin-bottom: 10px;
 }
 main{
     padding-top: 76px;
@@ -109,4 +110,47 @@ main .banner-home .background-filter{
 
 .card-title{
     height: 50px;
+    text-shadow: black 1px 1px;
+}
+
+.row-parag{
+    font-size: 17px;
+    padding-top: 25px;
+}
+
+.img1{
+    background-image: url(../img/laboratorio1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.img2{
+    background-image: url(../img/laboratorio2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.img3{
+    background-image: url(../img/laboratorio3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.title2{
+    text-align: right;
+}
+
+.text-center{
+    text-shadow: grey 1px 1px;
+}
+
+.sanscd{
+    text-shadow: black 1.5px 1.5px;
+}
+
+.title{
+    text-shadow: grey 1px 1px;
 }
