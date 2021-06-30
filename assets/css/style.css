@@ -59,7 +59,9 @@ main .banner-home .background-filter{
     height: 100%;
     width: 100%;
 }
-
+.formulario{
+    padding-bottom: 40px;
+}
 .card {
     background-color: #093e74;
     box-shadow: 0 0px 10px #0000008f;
