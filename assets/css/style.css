@@ -15,7 +15,6 @@ body{
     background-color: #eaeaea;
     margin: 0;
     overflow-x: hidden;
-    margin-bottom: 10px;
 }
 main{
     padding-top: 76px;
@@ -153,4 +152,31 @@ main .banner-home .background-filter{
 
 .title{
     text-shadow: grey 1px 1px;
+}
+
+footer{
+    background-color: #cfad48;
+    font-size: 18px;
+    padding: 15px 0;
+}
+footer i{
+    font-size: 40px;
+    padding-left: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.adress{
+    font-size: 15px;
+    padding-right: 20px;
+    float:right;
+    display: inline;
+}
+
+.logofooter{
+    float: right;
+    display: inline;
+    
 }
