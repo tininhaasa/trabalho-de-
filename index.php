@@ -156,8 +156,9 @@
         <a href="https://www.instagram.com/uniplaclages/" target="_blank"><i class="fab fa-instagram"></i></a>
         <a href="https://www.facebook.com/uniplaclages" target="_blank"><i class="fab fa-facebook"></i></a>
         <a class="num"><i class="fas fa-phone"></i>+55 (49) 32511022</a>
-        <img src="assets/img/logo.png" style="float: right; height: 60px;" alt="" class="logofooter">
-        <p class="adress">Av. Castelo Branco, nº170, Bairro Universitário - Lages - SC - Brasil</p>
+        <div class="adress-footer">
+            <i class="fas fa-map-marked-alt"></i><p class="adress">Av. Castelo Branco, nº170, Bairro Universitário - Lages - SC - Brasil</p>
+        </div>
     </footer>
 
 

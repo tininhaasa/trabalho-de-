@@ -170,13 +170,21 @@ a{
 
 .adress{
     font-size: 15px;
-    padding-right: 20px;
-    float:right;
+    padding-right: 15px;
+    position: center;
     display: inline;
 }
 
-.logofooter{
+.adress-footer{
+    float: right;
+}
+
+div i{
+    padding-right: 15px;
+    font-size: 30px;
+}
+
+/*.logofooter{
     float: right;
     display: inline;
-    
-}
+}/*
