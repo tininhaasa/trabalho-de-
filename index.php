@@ -34,7 +34,7 @@
                 <small>Venha conhecer um dos melhores cursos da UNIPLAC</small>
             </h1>
         </div>
-
+        <div class="container">
         <div class="teachers-banner row py-4">
             <div class="col-12 pb-4">
                 <h2 class="text-center">Venha conhecer os professores do primeiro ano de curso!</h2>
@@ -107,7 +107,7 @@
             </div>
         
         </div>
-
+</div>
         <div class="row row-parag">
             <div class="col-md-4 img1"></div>
 
