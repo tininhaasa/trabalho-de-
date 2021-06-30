@@ -39,7 +39,7 @@
             <div class="col-12 pb-4">
                 <h2 class="text-center">Venha conhecer os professores do primeiro ano de curso!</h2>
             </div>
-            <div class="col  col-md-4 col-lg-2">
+            <div class="col  col-md-4 col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                     <div style=" background-image: url(Professores/gattino.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
@@ -51,7 +51,7 @@
                 </div>
             </div>
         
-            <div class="col  col-md-4 col-lg-2">
+            <div class="col  col-md-4 col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                     <div style=" background-image: url(Professores/letti.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
@@ -62,7 +62,7 @@
                 </div>
             </div>
         
-            <div class="col  col-md-4 col-lg-2">
+            <div class="col  col-md-4 col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                     <div style=" background-image: url(Professores/luciano.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
@@ -73,7 +73,7 @@
                 </div>
             </div>
         
-            <div class="col  col-md-4 col-lg-2">
+            <div class="col  col-md-4 col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                 <div style=" background-image: url(Professores/pellizzoni.png)" class="card-img-top" alt=""></div>
                     <div class="card-body">
@@ -84,7 +84,7 @@
                 </div>
             </div>
 
-            <div class="col  col-md-4  col-lg-2">
+            <div class="col  col-md-4  col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                 <div style=" background-image: url(Professores/regimari.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
@@ -95,7 +95,7 @@
                 </div>
             </div>
 
-            <div class="col  col-md-4 col-lg-2">
+            <div class="col  col-md-4 col-lg-2 mt-2">
                 <div class="card" style="width: 100%; height: 100%;">
                 <div style=" background-image: url(Professores/sabrina.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
