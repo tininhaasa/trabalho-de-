@@ -148,8 +148,15 @@
             </div>
         </div>
 
+        <div class="py-5 text-center">
+            <h4 class="text-center mb-3">Ainda não tem certeza de que quer fazer parte da familia do Sistemas de Informação? Clique no botão abaixo!</h4>
+            <a href="form.php" class="btn btn-lg btn-dark">Teste de Compatilidade!</a>
+
+        </div>
+
 
     </main>
+
 
     <footer>
         

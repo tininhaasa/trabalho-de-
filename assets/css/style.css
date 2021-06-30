@@ -9,7 +9,7 @@ nav.navbar{
     z-index: 10000
 }
 nav img{
-    height: 60px;
+    height: 50px;
 }
 body{
     background-color: #eaeaea;
@@ -17,6 +17,8 @@ body{
     overflow-x: hidden;
     margin-bottom: 10px;
 }
+p{text-align: justify;}
+.formulario p{text-align: center;padding-bottom: 10px;}
 main{
     padding-top: 76px;
 }
