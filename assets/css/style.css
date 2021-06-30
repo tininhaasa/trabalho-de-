@@ -9,13 +9,15 @@ nav.navbar{
     z-index: 10000
 }
 nav img{
-    height: 60px;
+    height: 50px;
 }
 body{
     background-color: #eaeaea;
     margin: 0;
     overflow-x: hidden;
 }
+p{text-align: justify;}
+.formulario p{text-align: center;padding-bottom: 10px;}
 main{
     padding-top: 76px;
 }
