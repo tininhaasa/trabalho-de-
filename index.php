@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/font.css">
     <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 </head>
 <body>
     
@@ -159,7 +160,11 @@
 
 
     <footer>
-        
+        <a href="https://www.instagram.com/uniplaclages/" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.facebook.com/uniplaclages" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a class="num"><i class="fas fa-phone"></i>+55 (49) 32511022</a>
+        <img src="assets/img/logo.png" style="float: right; height: 60px;" alt="" class="logofooter">
+        <p class="adress">Av. Castelo Branco, nº170, Bairro Universitário - Lages - SC - Brasil</p>
     </footer>
 
 
