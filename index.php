@@ -39,9 +39,9 @@
             <div class="col-12 pb-4">
                 <h2 class="text-center">Venha conhecer os professores do primeiro ano de curso!</h2>
             </div>
-            <div class="col  col-md-2">
+            <div class="col  col-md-4 col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/gattino.jpg" class="card-img-top" alt="">
+                    <div style=" background-image: url(Professores/gattino.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Rafael Gattino Furtado</h5>
                         <p class="card-text">Desempenha as funções de Analista de Sistemas pelo Ministério Público de Santa Catarina, e Professor de nível superior na Universidade do Planalto 
@@ -51,9 +51,9 @@
                 </div>
             </div>
         
-            <div class="col  col-md-2">
+            <div class="col  col-md-4 col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/letti.jpg" class="card-img-top" alt="">
+                    <div style=" background-image: url(Professores/letti.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Giovani Letti</h5>
                         <p class="card-text">Sócio-fundador da Qualiall, empresa que desenvolve tecnologias para treinamento em processos operacionais. Sócio-fundador da Grão em Grão, 
@@ -62,9 +62,9 @@
                 </div>
             </div>
         
-            <div class="col  col-md-2">
+            <div class="col  col-md-4 col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/luciano.jpg" class="card-img-top" alt="">
+                    <div style=" background-image: url(Professores/luciano.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Luciano Coelho</h5>
                         <p class="card-text">Especialista em Docência para a Educação Profissional, Bacharel em Informática, Técnico de Eletrônica, Servidor UDESC/CAV atuando no Setor de TI, Professor 
@@ -73,9 +73,9 @@
                 </div>
             </div>
         
-            <div class="col  col-md-2">
+            <div class="col  col-md-4 col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/pellizzoni.png" class="card-img-top" alt="">
+                <div style=" background-image: url(Professores/pellizzoni.png)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Rafael Pellizzoni</h5>
                         <p class="card-text">Experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação, Hardware, Instalação e configuração de servidores Linux e Windows, 
@@ -84,9 +84,9 @@
                 </div>
             </div>
 
-            <div class="col  col-md-2">
+            <div class="col  col-md-4  col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/regimari.jpg" class="card-img-top" alt="">
+                <div style=" background-image: url(Professores/regimari.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Regimari Cristina Rodolfi Beppler</h5>
                         <p class="card-text">Especialização em Coordenação Pedagógica, pela Universidade Federal de Santa Catarina. Atualmente é Consultor Educacional - Secretaria de 
@@ -95,9 +95,9 @@
                 </div>
             </div>
 
-            <div class="col  col-md-2">
+            <div class="col  col-md-4 col-lg-2">
                 <div class="card" style="width: 100%; height: 100%;">
-                    <img src="Professores/sabrina.jpg" class="card-img-top" alt="">
+                <div style=" background-image: url(Professores/sabrina.jpg)" class="card-img-top" alt=""></div>
                     <div class="card-body">
                         <h5 class="card-title">Sabrina Bet</h5>
                         <p class="card-text">Experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial, atuando principalmente nos seguintes temas: Sistemas de Informação, 
