@@ -162,9 +162,7 @@
                     </div>
                 </div>
 
-                <button type="button" class="btn btn-success" onclick="calculoMedia();">Clique Aqui 
-                para ver sua compatibilidade com o curso</button>
-                <!-- <div id="resultado">Resultado:</div> -->
+                <input required type="button" class="btn btn-success" value="Clique Aqui para ver sua compatibilidade com o curso" onclick="calculoMedia();">
             </form>
     </section>
 
@@ -192,7 +190,6 @@
 
             //operação
             var media = (n1 + n2 + n3 + n4 + n5 + n6) / 6;
-            // var media = n1 + n2 + n3 + n4 + n5 + n6
             
              if (media <= 1) {
                 swal({
@@ -223,7 +220,6 @@
                 });
                 
             }
-            // res.innerHTML = (`A média é = <strong>${media}</strong>`)
         }
 
     </script>
