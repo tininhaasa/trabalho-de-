@@ -24,7 +24,6 @@
     </header>
 
     <main>
-
         <div class="banner-home">
             <div class="banner-img"></div>
             <div class="background-filter"></div>
@@ -152,12 +151,8 @@
         <div class="py-5 text-center">
             <h4 class="text-center mb-3">Ainda não tem certeza de que quer fazer parte da familia do Sistemas de Informação? Clique no botão abaixo!</h4>
             <a href="form.php" class="btn btn-lg btn-dark">Teste de Compatilidade!</a>
-
         </div>
-
-
     </main>
-
 
     <footer>
         <a href="https://www.instagram.com/uniplaclages/" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -168,12 +163,9 @@
         </div>
     </footer>
 
-
-
     <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrit1y="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
-
 </body>
 </html>
