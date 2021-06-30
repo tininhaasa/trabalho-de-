@@ -162,7 +162,8 @@
                     </div>
                 </div>
 
-                <input required type="button" class="btn btn-success" value="Clique Aqui para ver sua compatibilidade com o curso" onclick="calculoMedia();">
+                <button type="button" class="btn btn-success" onclick="calculoMedia();">Clique Aqui 
+                para ver sua compatibilidade com o curso</button>
                 <!-- <div id="resultado">Resultado:</div> -->
             </form>
     </section>
@@ -173,12 +174,12 @@
         function calculoMedia(){
 
             //transformar valores em variáveis
-            var p1 = document.querySelector('input required[name="q1"]:checked').value
-            var p2 = document.querySelector('input required[name="q2"]:checked').value
-            var p3 = document.querySelector('input required[name="q3"]:checked').value
-            var p4 = document.querySelector('input required[name="q4"]:checked').value
-            var p5 = document.querySelector('input required[name="q5"]:checked').value
-            var p6 = document.querySelector('input required[name="q6"]:checked').value
+            var p1 = document.querySelector('input[name="q1"]:checked').value
+            var p2 = document.querySelector('input[name="q2"]:checked').value
+            var p3 = document.querySelector('input[name="q3"]:checked').value
+            var p4 = document.querySelector('input[name="q4"]:checked').value
+            var p5 = document.querySelector('input[name="q5"]:checked').value
+            var p6 = document.querySelector('input[name="q6"]:checked').value
             var res = document.getElementById('resultado')
             
             //transforma variáveis em números

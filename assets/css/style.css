@@ -182,3 +182,11 @@ a{
     display: inline;
     
 }
+
+@media(max-width: 767px){
+    .form-check-inline {
+        display: inline-block;
+        margin-right: 1rem;
+        width: 100%;
+    }
+}
